@@ -1,5 +1,5 @@
 import { Container } from "./style.ts";
-import reminderLogo from "../../assets/images/Logo.jpg";
+import reminderLogo from "../../assets/images/Logo-5.png";
 import { useState } from "react";
 import { Button } from "../Button/index.tsx";
 import { NewStickyModal } from "../NewStickyModal/index.tsx";

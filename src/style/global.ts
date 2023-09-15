@@ -3,9 +3,9 @@ import { createGlobalStyle } from "styled-components";
 export const GlobalStyle = createGlobalStyle`
 :root {
     //definindo cores
-    --purple-300: rgba(85,49,255,0.25);
-    --purple-600: #5531FF;
-    --purple-900: #120057;
+    --purple-300: #EFCFA0;
+    --purple-600: #E1A140;
+    --purple-900: #532200;
 
     --font-black: #1c1c1c;
     --font-white: #fff;
